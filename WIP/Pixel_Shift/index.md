@@ -1,4 +1,4 @@
-Note: this article is not fact-checked by RawTherapee devs and should not be regarded as part of the official RawPedia Content and it may have (lots of) problems. Also be advised it is written by someone whose 1st is not English, therefore the words used may not be accurate in describing things/actions. Also the author is a Markdown noob so the formatting may not be optimal. This is very much a work-in-progress and you're free to modify/file an issue for comments. The contents of this article is shared under CC-BY-SA 3.0 license.
+Note: this article is not fact-checked by RawTherapee devs and should not be regarded as part of the official RawPedia Content and it may have (lots of) problems. Also be advised it is written by someone whose 1st is not English, therefore the words used may not be accurate in describing things/actions. Also the author is a Markdown noob so the formatting may not be optimal. This is very much a work-in-progress and you're free to modify the contents/file an issue for comments. The text of this article is in public domain, the images are not shared under any licenses, please ask me for permission if you need them.
 
 # Pixel shift
 
