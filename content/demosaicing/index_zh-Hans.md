@@ -2,7 +2,7 @@
 
 由于本人不熟悉Markdown，段落格式可能有问题，并且文中没有图片。由于本人水平有限，虽然经过了一次校对，但译文仍然仅供参考。
 
-This artical is shared under CC BY-SA 3.0 license. It was translated by me and went through proofread later, so the content should be accurate. However, formatting could be wrong (since I'm a Markdown noob) and I didn't bother adding pictures.
+This article is shared under CC BY-SA 3.0 license. It was translated by me and went through proofread later, so the content should be accurate. However, formatting could be wrong (since I'm a Markdown noob) and I didn't bother adding pictures.
 
 ## 去马赛克
 
