@@ -1,10 +1,10 @@
-（RawTherapee教程）RawPedia译介之——小波层级
 
-本文内容出自RawTherapee官方的文档：RawPedia（http://rawpedia.rawtherapee.com/）。具体翻译的内容是“Wavelet Levels”条目（http://rawpedia.rawtherapee.com/Wavelet_Levels）。
-
+本文内容出自RawTherapee官方的文档：RawPedia（http://rawpedia.rawtherapee.com/）。翻译的内容是“Wavelet Levels”条目（http://rawpedia.rawtherapee.com/Wavelet_Levels）。
 本文采取CC BY-SA 3.0共享协议（https://creativecommons.org/licenses/by-sa/3.0/，在进行合适的署名，引用CC版权链接，并以同样的共享协议传播内容的前提下，可以自由地复制/分发内容，详见前面的链接）。
-
 由于本人英语和数学水平极其有限，译文仅供参考。
+本翻译未经校对，由于翻译时间跨度较长，可能会出现目录与正文标题对不上的情况。
+
+This article translates Rawpedia's Wavelet documentation to Simplified Chinese. The content is not yet audited and thus not production ready at all.
 
 # 小波层级
 
