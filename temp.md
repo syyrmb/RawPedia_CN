@@ -9,3 +9,7 @@ https://github.com/syyrmb/RawPedia/edit/master/content/Local_Adjustments/index.m
 2. Line 3720 ("originating from CIE (Commission Internationale de l'Éclairage - in French)")
 
 + Propose change: originating from CIE ("***C***ommission ***I***nternationale de l'***É***clairage" in French, aka International Commission on Illumination).
+
+3. Line 3895 ("Only available in Standard and Advanced modes?")
+
++ Not sure why it ends with a question mark, amended to a period.
