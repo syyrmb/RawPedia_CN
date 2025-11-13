@@ -13,3 +13,6 @@ https://github.com/syyrmb/RawPedia/edit/master/content/Local_Adjustments/index.m
 3. Line 3895 ("Only available in Standard and Advanced modes?")
 
 + Not sure why it ends with a question mark, amended to a period.
+
+4. Line 3949, RawPedia guideline againsts using shortcut.
+5. Line 4185, 4332, sentence restructure.
