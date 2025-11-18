@@ -16,3 +16,4 @@ https://github.com/syyrmb/RawPedia/edit/master/content/Local_Adjustments/index.m
 
 4. Line 3949, RawPedia guideline againsts using shortcut.
 5. Line 4185, 4332, sentence restructure.
+6. 4492
