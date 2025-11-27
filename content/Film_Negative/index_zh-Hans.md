@@ -4,7 +4,7 @@
 
 This article is shared under CC BY-SA 3.0. 
 
-It went through a rough proofreading before being uploaded, should be OK but can still be subject to errors.
+It had went through a rough proofreading before being uploaded, should be OK but may still subject to errors.
 
 # ***胶片负片***
 
